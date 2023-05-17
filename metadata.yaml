@@ -1,0 +1,37 @@
+_repo: Clerk-Maxwell-s-electromagnetic-theory_70453
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lorentz, H. A. (Hendrik Antoon)
+    alias: Lorentz, Hendrik Antoon
+    birthdate: 1853
+    deathdate: 1928
+    gutenberg_agent_id: '3944'
+    url: http://www.gutenberg.org/2009/agents/3944
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Hendrik_Lorentz
+    - https://nl.wikipedia.org/wiki/Hendrik_Lorentz
+description: ''
+gutenberg_issued: '2023-04-03'
+identifiers:
+  gutenberg: '70453'
+  lccn: '24022573'
+language: en
+pgterms:marc904: https://catalog.hathitrust.org/Record/006200343
+pgterms:marc905: 20230306025404lorentz
+pgterms:marc906: '1923'
+pgterms:marc907: UK
+production_note: Laura Natal Rodrigues (Images generously made available by Hathi
+  Trust Digital Library.)
+publication_note: '  $aUK :$bThe University press, $c1923.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: The Rede Lecture for 1923.
+subjects:
+- !lcsh 'Maxwell, James Clerk, 1831-1879'
+- !lcsh 'Electromagnetic theory'
+- !lcc 'QC'
+- GITenberg
+title: Clerk Maxwell's electromagnetic theory
+url: http://www.gutenberg.org/ebooks/70453
