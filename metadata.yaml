@@ -1,5 +1,8 @@
 _repo: Clerk-Maxwell-s-electromagnetic-theory_70453
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 70453-h/images/cover.jpg
 creator:
   author:
     agent_name: Lorentz, H. A. (Hendrik Antoon)
@@ -12,6 +15,8 @@ creator:
     - https://en.wikipedia.org/wiki/Hendrik_Lorentz
     - https://nl.wikipedia.org/wiki/Hendrik_Lorentz
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70453#Clerk-Maxwell-s-electromagnetic-theory
 gutenberg_issued: '2023-04-03'
 identifiers:
   gutenberg: '70453'
